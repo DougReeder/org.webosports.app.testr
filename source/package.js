@@ -17,6 +17,7 @@ enyo.depends(
 	"Notifications.js",
 	"Geolocation.js",
 	"ResponsiveImg.js",
+	"Speech.js",
 	// dashboard
 	"Dashboard.js",
 	// system popup
